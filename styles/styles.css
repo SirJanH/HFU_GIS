@@ -1,0 +1,19 @@
+.highlight{
+    background: #F7BCBC;
+    color: #9A1313;
+    padding: 0.25rem;
+}
+
+/* ID */
+#Home{
+color: blue;
+font-size: 64px;
+font-weight: 100;
+text-align: right;
+}
+
+/* Class */
+.topnav{
+
+}
+
